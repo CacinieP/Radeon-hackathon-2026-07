@@ -290,7 +290,7 @@ The public Track 2 submission contains:
 - the float16 versus GPTQ-Int4 optimization report and reproducible quality
   evaluation;
 - the 4:45
-  [public demo video](https://app.notion.com/p/3b234433b7e280db9777d470ba4cfed1),
+  [public demo video](https://app.notion.com/p/linguistwantstech/radeon-sentinel-demo-3b234433b7e280db9777d470ba4cfed1?source=copy_link),
   showing live Radeon execution, the full agent workflow, approval gating, and
   bilingual subtitles;
 - the English submission poster; and

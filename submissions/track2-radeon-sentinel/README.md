@@ -23,7 +23,7 @@ Built for **Track 2 (Private AI Agents)** of the
 
 ## Demo video
 
-[Watch the 4:45 Radeon Sentinel demo](https://app.notion.com/p/3b234433b7e280db9777d470ba4cfed1).
+[Watch the 4:45 Radeon Sentinel demo](https://app.notion.com/p/linguistwantstech/radeon-sentinel-demo-3b234433b7e280db9777d470ba4cfed1?source=copy_link).
 
 The public video is 1920×1080 H.264 with AAC narration and hard-coded English
 and Chinese subtitles. It demonstrates the live Radeon/ROCm environment, local
